@@ -1,0 +1,1 @@
+nohup python finetune.py 2>&1 &

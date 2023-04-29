@@ -1,0 +1,1 @@
+nohup python pretrain.py 2>&1 &
